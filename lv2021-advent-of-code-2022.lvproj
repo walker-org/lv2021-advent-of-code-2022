@@ -15,10 +15,13 @@
 		<Item Name="d2.lvlib" Type="Library" URL="../d2/d2.lvlib"/>
 		<Item Name="d3.lvlib" Type="Library" URL="../d3/d3.lvlib"/>
 		<Item Name="d4.lvlib" Type="Library" URL="../d4/d4.lvlib"/>
+		<Item Name="d5.lvlib" Type="Library" URL="../d5/d5.lvlib"/>
+		<Item Name="d6.lvlib" Type="Library" URL="../d6/d6.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="Remove Duplicates From 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Remove Duplicates From 1D Array.vim"/>
 				<Item Name="Set Intersection.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Intersection.vim"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
