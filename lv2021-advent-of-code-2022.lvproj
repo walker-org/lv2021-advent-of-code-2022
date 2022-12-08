@@ -18,6 +18,7 @@
 		<Item Name="d5.lvlib" Type="Library" URL="../d5/d5.lvlib"/>
 		<Item Name="d6.lvlib" Type="Library" URL="../d6/d6.lvlib"/>
 		<Item Name="d7.lvlib" Type="Library" URL="../d7/d7.lvlib"/>
+		<Item Name="d8.lvlib" Type="Library" URL="../d8/d8.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
