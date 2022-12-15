@@ -24,6 +24,7 @@
 		<Item Name="d11.lvlib" Type="Library" URL="../d11/d11.lvlib"/>
 		<Item Name="d12.lvlib" Type="Library" URL="../d12/d12.lvlib"/>
 		<Item Name="d13.lvlib" Type="Library" URL="../d13/d13.lvlib"/>
+		<Item Name="d14.lvlib" Type="Library" URL="../d14/d14.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Remove Duplicates from 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Boolean)__ogtk.vi"/>
