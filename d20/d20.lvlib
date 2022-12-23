@@ -13,4 +13,5 @@
 	<Item Name="input.txt" Type="Document" URL="../input.txt"/>
 	<Item Name="p1.vi" Type="VI" URL="../p1.vi"/>
 	<Item Name="p2.vi" Type="VI" URL="../p2.vi"/>
+	<Item Name="INode.lvclass" Type="LVClass" URL="../INode/INode.lvclass"/>
 </Library>
