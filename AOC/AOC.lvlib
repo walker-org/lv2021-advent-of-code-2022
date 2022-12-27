@@ -8,9 +8,13 @@
 
 </Property>
 	<Item Name="chars" Type="Folder">
+		<Item Name="down arrow.vi" Type="VI" URL="../chars/down arrow.vi"/>
 		<Item Name="hash.vi" Type="VI" URL="../chars/hash.vi"/>
+		<Item Name="left arrow.vi" Type="VI" URL="../chars/left arrow.vi"/>
 		<Item Name="period.vi" Type="VI" URL="../chars/period.vi"/>
+		<Item Name="right arrow.vi" Type="VI" URL="../chars/right arrow.vi"/>
 		<Item Name="space.vi" Type="VI" URL="../chars/space.vi"/>
+		<Item Name="up arrow.vi" Type="VI" URL="../chars/up arrow.vi"/>
 	</Item>
 	<Item Name="Day Template.lvlib" Type="Library" URL="../Day Template/Day Template.lvlib"/>
 	<Item Name="Get Input.vi" Type="VI" URL="../Get Input.vi"/>
