@@ -38,11 +38,11 @@
 	<Item Name="Move.vi" Type="VI" URL="../Move.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#1!%!!!!$E!B#5:J&lt;GFT;'6E0Q!:1!-!%S-A:7RF&lt;76O&gt;(-A;7YA=86F&gt;75!-%"Q!"Y!!"M*:$%W,GRW&lt;'FC$V:P&lt;'.B&lt;G]O&lt;(:D&lt;'&amp;T=Q!,6G^M9W&amp;O&lt;S"P&gt;81!#E!B"5:P=G.F!!Z!-0````]&amp;6G&amp;M&gt;G5!$U!$!!BN98AA&gt;'FN:1!!-%"Q!"Y!!"M*:$%W,GRW&lt;'FC$V:P&lt;'.B&lt;G]O&lt;(:D&lt;'&amp;T=Q!+6G^M9W&amp;O&lt;S"J&lt;A!!91$Q!!Q!!!!"!!)!!Q!!!!1!!!!&amp;!!!!!!!'!!=$!!"Y!!!!!!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342713872</Property>
 	</Item>
 	<Item Name="Read Max Pressure Released.vi" Type="VI" URL="../Read Max Pressure Released.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$I!!!!"1!%!!!!'U!)!"6.98AA5(*F=X.V=G5A5G6M:7&amp;T:71!-%"Q!"Y!!"M*:$%W,GRW&lt;'FC$V:P&lt;'.B&lt;G]O&lt;(:D&lt;'&amp;T=Q!,6G^M9W&amp;O&lt;S"P&gt;81!-%"Q!"Y!!"M*:$%W,GRW&lt;'FC$V:P&lt;'.B&lt;G]O&lt;(:D&lt;'&amp;T=Q!+6G^M9W&amp;O&lt;S"J&lt;A!!91$Q!!Q!!!!!!!%!!A!!!!!!!!!!!!!!!!!!!!-#!!"Y!!!!!!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!"!!!!!!</Property>
